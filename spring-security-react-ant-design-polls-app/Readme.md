@@ -1,6 +1,10 @@
 ## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT, React and Ant Design
 
-![App Screenshot](screenshot.png)
+![image](https://user-images.githubusercontent.com/63532275/88426420-c77ddd00-ce0e-11ea-968f-09cf45a35897.png)
+![image](https://user-images.githubusercontent.com/63532275/88426438-d19fdb80-ce0e-11ea-8c44-1235927edb55.png)
+![image](https://user-images.githubusercontent.com/63532275/88426485-e41a1500-ce0e-11ea-832a-8fd7b01aba1b.png)
+![image](https://user-images.githubusercontent.com/63532275/88426563-057b0100-ce0f-11ea-812c-ff01d4280bcf.png)
+
 
 ### Tutorials
 
